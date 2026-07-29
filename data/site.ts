@@ -7,7 +7,7 @@ export const site = {
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://www.rkelectronics.in",
   whatsappNumber: process.env.NEXT_PUBLIC_WHATSAPP_NUMBER || "919053616400",
   email: "hello@rkelectronics.in",
-  addressLine: "Karol Bagh, New Delhi, India",
+  addressLine: "Shop No. 26, Gaushala, Spatu Road, Ambala City, Haryana, India",
   social: {
     instagram: "https://instagram.com/rke_lectronics",
     facebook: "https://facebook.com/rkelectronics",
